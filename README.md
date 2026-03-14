@@ -45,3 +45,17 @@ The system integrates multiple recommendation strategies to improve accuracy and
 
 ---
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone <REPOSITORY_URL>
+cd <PROJECT_FOLDER>
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+
