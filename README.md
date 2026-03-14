@@ -50,8 +50,10 @@ The system integrates multiple recommendation strategies to improve accuracy and
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
-cd <PROJECT_FOLDER>
+git clone https://github.com/RocK-1504/Universal-Recommender.git
+
+cd Universal-Recommender
+
 ```
 Install the required dependencies:
 
