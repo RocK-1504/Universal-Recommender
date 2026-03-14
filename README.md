@@ -68,11 +68,11 @@ streamlit run app.py
 
 ---
 
-## Model Training Section (for `train_model.py`)
-
 ## Model Training
 
 The recommendation models were trained using the MovieLens dataset.
+
+Pre-trained models are already included in the repository, so training is not required to run the application.
 
 To retrain the models locally:
 
