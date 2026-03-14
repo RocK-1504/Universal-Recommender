@@ -59,3 +59,8 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
+Run the streamlit application:
+```bash
+streamlit run app.py
+```
+
