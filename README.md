@@ -50,7 +50,7 @@ The system integrates multiple recommendation strategies to improve accuracy and
 Clone the repository:
 
 ```bash
-git clone https://github.com/RocK-1504/Universal-Recommender.git
+git clone https://github.com/prathiknambiar/Universal-Recommender.git
 
 cd Universal-Recommender
 
